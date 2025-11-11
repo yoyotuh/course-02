@@ -6,4 +6,4 @@ def inputAngka():
             return number
         except ValueError:
             print("Masukkan hanya angka saja!")
-     
+    
