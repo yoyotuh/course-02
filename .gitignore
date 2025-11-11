@@ -9,3 +9,4 @@ output/
 .DS_Store
 __pycache__/
 temp/
+!codes/*.py
